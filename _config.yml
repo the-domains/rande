@@ -1,0 +1,14 @@
+layout_spectrum: 0.004910962
+typography_spectrum: 0.2713033
+color:
+  saturation: 0.1511707
+  lightness: 0.0745614
+  brandStrength: 0.8753133
+  brandColors:
+    - '#FFFFFF'
+    - '#030303'
+    - '#718095'
+    - '#BAC3CE'
+    - '#BE1238'
+  rhythmicContrast: 0.7844611
+name: RANDE
